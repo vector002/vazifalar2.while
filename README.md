@@ -1,1 +1,1 @@
-# vazifalar2.while
+Bu yerda while sikldan qilgan vazifalarim bor 
